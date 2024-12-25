@@ -151,5 +151,76 @@ cd FoodDeliverySystem
 - 📱 **Mobile Optimization:** Further optimize the UI for mobile devices, ensuring a smooth and intuitive experience for users on-the-go.
 - 🌍 **Multi-Language Support:** Expand accessibility by offering localization options to support multiple languages and cater to a wider audience.
 
+
+---
+
+## 🧑‍💻 **Contributor Guidelines**
+
+If you would like to contribute to the development of **FoodDeliverySystem**, here are a few guidelines to ensure smooth collaboration:
+
+### How to Contribute:
+1. **Fork the Repository**  
+   Start by forking the repository to your own GitHub account. This ensures that you can freely make changes without affecting the original code.
+
+2. **Clone the Forked Repository**  
+   Clone the repository to your local machine to begin working:
+   ```bash
+   git clone https://github.com/Bushra-Butt-17/FoodDeliverySystem.git
+   ```
+
+3. **Create a New Branch**  
+   Before making any changes, create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **Make Changes**  
+   Implement your feature or fix the bug. Ensure that your code follows the project's coding standards (e.g., indentations, naming conventions).
+
+5. **Commit Your Changes**  
+   Commit your changes with a clear and concise commit message describing what was changed:
+   ```bash
+   git commit -m "Added new feature XYZ"
+   ```
+
+6. **Push Your Changes**  
+   Push your changes back to your forked repository:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+7. **Create a Pull Request**  
+   Once you've pushed your changes, create a pull request (PR) from your forked repository's branch to the original repository's main branch. In the PR description, explain the changes you made.
+
+8. **Code Review**  
+   A project maintainer will review your PR, provide feedback, and possibly request additional changes before merging.
+
+### Code Standards:
+- **Clean and Readable Code:** Always write clean, understandable, and well-documented code.
+- **Commenting:** Include comments where necessary, especially for complex logic, to explain what the code does.
+- **Testing:** If applicable, write unit tests to verify the correctness of your feature or bug fix.
+
+By following these guidelines, you can help ensure that contributions to the project are high quality and maintainable.
+
+---
+
+## 🌱 **License and Acknowledgements**
+
+This project is licensed under the **MIT License**, which allows anyone to freely use, modify, and distribute the software for both personal and commercial purposes.
+
+### License Information:
+- **MIT License**  
+  The MIT License allows for redistribution and modification of the software, provided that the original license notice is included in all copies of the software. This ensures that anyone using the project is aware of the terms under which it was shared.
+
+### Acknowledgements:
+This project was inspired by the need for a simple yet effective solution to manage food orders and provide a seamless user experience. Special thanks to the following resources that helped in shaping the development process:
+
+- **Bootstrap:** For providing responsive web components and grid systems.
+- **PHP Manual:** For comprehensive documentation on PHP.
+- **MySQL Documentation:** For clear guides on database management and queries.
+- **Font Awesome:** For easily integrating icons and enhancing the UI.
+
+The development community's open-source projects and documentation have been invaluable in providing the necessary tools and frameworks for building this application.
+
 ---
 
