@@ -223,5 +223,20 @@ This project was inspired by the need for a simple yet effective solution to man
 
 The development community's open-source projects and documentation have been invaluable in providing the necessary tools and frameworks for building this application.
 
+
+---
+
+## 🎥 **Video Demonstration**
+
+To give you a comprehensive overview of how the **FoodDeliverySystem** works, we have created a demonstration video that covers the key features and functionalities of the system, both from the user and admin perspectives.
+
+### **Key Features Covered:**
+- **For Users:** Browsing the menu, adding items to the cart, placing an order, and tracking delivery status in real-time.
+- **For Admins:** Managing food categories, updating menu items, and monitoring incoming orders with the ability to update order statuses and view reports.
+  
+[Watch the Full System Demonstration](https://github.com/user-attachments/assets/36a66724-4896-43ac-b76e-423be4c3519f)
+
+This video provides a step-by-step walkthrough of how to use the system, ensuring that you get the most out of the **FoodDeliverySystem**, whether you're a customer placing an order or an admin managing the platform.
+
 ---
 
