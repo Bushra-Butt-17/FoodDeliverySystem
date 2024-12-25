@@ -6,6 +6,8 @@
 A robust and scalable web application designed to deliver an intuitive food ordering experience for customers while providing administrators with powerful tools for order and menu management. The platform allows users to explore menus, place orders, track delivery statuses, and enjoy a seamless ordering experience. Meanwhile, administrators benefit from easy-to-use features for managing food categories, menu items, and orders, ensuring smooth operational workflows and an optimized user experience.
 
 ---
+https://github.com/user-attachments/assets/36a66724-4896-43ac-b76e-423be4c3519f
+
 
 ## 📂 Project Structure
 
