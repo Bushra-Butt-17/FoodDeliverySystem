@@ -2,6 +2,7 @@
 ---
 
 # **🍔 FoodDeliverySystem**
+![banner](https://github.com/user-attachments/assets/d649e27d-64cd-4059-a062-107a1a0c445d)
 
 A robust and scalable web application designed to deliver an intuitive food ordering experience for customers while providing administrators with powerful tools for order and menu management. The platform allows users to explore menus, place orders, track delivery statuses, and enjoy a seamless ordering experience. Meanwhile, administrators benefit from easy-to-use features for managing food categories, menu items, and orders, ensuring smooth operational workflows and an optimized user experience.
 
